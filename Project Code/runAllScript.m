@@ -1,0 +1,17 @@
+% BlackjackBasic(6,100,10000);
+% BlackjackBasicHiLo(6,100,10000);
+% BlackjackBasicKISS(6,100,10000);
+% BlackjackBasicKO(6,100,10000);
+% BlackjackBasicNoDoubleNoSplit(6,100,10000);
+% BlackjackBasicOmega(6,100,10000);
+% BlackjackBasicWithDouble(6,100,10000);
+% BlackjackBasicWithSplit(6,100,10000);
+% BlackjackBasicWong(6,100,10000);
+% BlackjackBasicZEN(6,100,10000);
+% BlackjackMimic(6,100,10000);
+% BlackjackNB(6,100,10000);
+%BlackjackBasic(1,100,10000);
+%BlackjackBasic(2,100,10000);
+%BlackjackBasic(4,100,10000);
+BlackjackBasic(6,100,10000);
+BlackjackBasic(8,100,10000);
